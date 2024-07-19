@@ -1,0 +1,42 @@
+# Railway Management System
+
+This project is a simple MERN (MongoDB, Express.js, React.js, Node.js) application for managing railway operations, including user authentication, train booking, and search functionalities.
+
+## Features
+
+- **User Authentication:** Includes login and signup functionality with form validation.
+- **Find Trains:** Allows users to search for trains based on origin and destination.
+- **Booking Management:** Users can view their bookings and manage them.
+
+## Technologies Used
+
+- **Frontend:**
+  - React.js
+  - React Router DOM
+  - Axios for API requests
+  - React Hook Form for form handling
+
+- **Backend:**
+  - Node.js with Express.js
+  - MongoDB with Mongoose for data storage
+  - JWT for authentication
+  - Express middleware for sanitization and validation
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps:
+
+
+
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ram-1405/Mern.git
+
+
+
+cd Mern/frontend  # Navigate to frontend directory
+npm install       # Install frontend dependencies
+
+cd ../backend    # Navigate to backend directory
+npm install      # Install backend dependencies
