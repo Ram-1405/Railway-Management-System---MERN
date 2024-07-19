@@ -14,6 +14,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### OUTPUT
+Login Page 
+![WhatsApp Image 2024-07-19 at 19 26 05_74e103db](https://github.com/user-attachments/assets/68a19fb8-f0c5-4a04-b4c8-b785690ffdb6)
+
+Seach For Trains
+![find](https://github.com/user-attachments/assets/f3bfdd8c-2d50-40ba-9de0-a1c41c356d49)
+
+Bookings and List of all Available Trains
+![collage](https://github.com/user-attachments/assets/be47078d-9b93-474a-8abc-c7c4db62bf18)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
